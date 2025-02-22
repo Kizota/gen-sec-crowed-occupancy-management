@@ -69,10 +69,5 @@ git clone https://github.com/Kizota/gen-sec-crowed-occupancy-management.git
 ## Contributing
 This project was developed by a team of four contributors. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-[Add your chosen license]
 
-## Acknowledgments
-- Team members
-- Project advisors
-- Any third-party libraries or tools used
+
