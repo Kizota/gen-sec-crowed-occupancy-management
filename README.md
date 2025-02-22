@@ -38,18 +38,7 @@ The system is built following SOLID principles and implements several key featur
    - Status monitoring
    - Command distribution
 
-## Project Structure
 
-project/
-├── src/
-│ ├── gate_controller/ # ESP32 gate control logic
-│ ├── leader_election/ # Dynamic leader assignment
-│ ├── mqtt_handler/ # MQTT communication
-│ └── heartbeat_monitor/ # System health monitoring
-├── include/ # Header files
-├── lib/ # External libraries
-├── docs/ # Documentation
-└── tests/ # Unit tests
 
 ## Features
 - Real-time occupancy monitoring
